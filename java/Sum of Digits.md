@@ -5,7 +5,14 @@
 **题目：**
 
 In this kata, you must create a digital root function.
-A digital root is the recursive sum of all the digits in a number. Given n, take the sum of the digits of n. If that value has more than one digit, continue reducing in this way until a single-digit number is produced. This is only applicable to the natural numbers.
+
+A digital root is the recursive sum of all the digits in a number. 
+
+Given n, take the sum of the digits of n. If that value has more 
+
+than one digit, continue reducing in this way until a single-digit 
+
+number is produced. This is only applicable to the natural numbers.
 
 >给定一个数字，这个数字中每一位数相加在一起得到的值再每一位进行相加，直到最后的值为个位数为止
 

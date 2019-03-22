@@ -1,4 +1,4 @@
-**难度：7kyu**
+**难度：7kyu<>**
 
 ---
 
@@ -9,6 +9,7 @@ Return the number (count) of vowels in the given string.
 We will consider a, e, i, o, and u as vowels for this Kata.
 
 The input string will only consist of lower case letters and/or spaces.
+
 >输入一个字符串，返回字符串中元音字符（a,e,i,o,u）的数量
 
 
